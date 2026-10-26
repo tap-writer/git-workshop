@@ -1,2 +1,3 @@
-# this is a read me
-I am learning Git and GitHub
+# my git journey
+## about me
+i enjoy learning new and exciting things
